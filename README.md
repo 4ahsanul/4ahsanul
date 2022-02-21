@@ -47,3 +47,6 @@
             </p>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+### Snack
+![snake gif](https://github.com/4ahsanul/4ahsanul/blob/output/github-contribution-grid-snake.gif)
