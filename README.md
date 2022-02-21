@@ -49,4 +49,4 @@
 </details>
 
 ### Snack
-![snake gif](https://github.com/4ahsanul/4ahsanul/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/4ahsanul/4ahsanul/snek-output/github-contribution-grid-snake.svg" alt="Snek"/>
