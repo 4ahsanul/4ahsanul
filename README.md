@@ -29,7 +29,7 @@
         <p align="center">
             <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
             My name is Filfimo Yulfiz Ahsanul Hulqi, You can call me Fimo or Yulfis.<br>
-            Right now I'm an _undergraduate_ Informatics Student at Institute Technology Telkom Purwokerto Semester 6.<br><br>
+            Right now I'm an <i>undergraduate</i> Informatics Student at Institute Technology Telkom Purwokerto Semester 6.<br><br>
             I love tech, and about programming, but right now i'm in quarter live crisis (maybe). <img src=https://media.giphy.com/media/McVAzihiFCpV5N5HZE/giphy.gif width="25px"><br>
             I'm feel anxious and not confident with my skill, because the reality in tech industry is so hard (kukira kertas ternyata keras).<br>
             But I'm not give up, i'm still here, still learning, always trying, keep productive, and stay active.<br>
