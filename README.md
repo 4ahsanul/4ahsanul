@@ -16,6 +16,9 @@
         <img src="https://badges.pufler.dev/years/4ahsanul?style=flat-square&color=350590" alt="Years Badge"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
+        <img src="https://badges.pufler.dev/repos/4ahsanul?style=flat-square&color=350590" alt="Repos Badge"/>
+    </a>
+    <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/commits/monthly/4ahsanul?style=flat-square&color=350590" alt="Commits Badge"/>
     </a>
 </p>
