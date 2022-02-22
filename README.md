@@ -23,7 +23,7 @@
     </a>
 </p>
 
-### About Me
+### About Me 🏡
 <details> 
     <summary>Collapse</summary><br/>
         <p align="center">
@@ -38,7 +38,7 @@
         </p>
 </details>
 
-### Github Stat
+### Github Stat 📈
 <details>
     <summary>Collapse</summary>
         <br/>
@@ -51,10 +51,10 @@
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-### Snake
+### Snake 🐍
 <img align="center" src="https://github.com/4ahsanul/4ahsanul/blob/output/github-contribution-grid-snake.svg" alt="Snake">
 
-### Tech Stack
+### Tech Stack 🛠
 <details>
     <summary>Collapse</summary>
     <h4 align="center">Markup Language</h4>
