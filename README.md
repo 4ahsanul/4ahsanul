@@ -2,11 +2,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hrlo;Hello;Backend%20Web%20developer;Love%20Street%20Cat;Love%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=9D84B7&vCenter=true&size=22"></a>
-</p><br/>
+</p>
 
 <div align="center">
     <img src="https://media.giphy.com/media/OovKvQaKzwzLy/giphy.gif">
-</div>
+</div><br/>
 
 <p align="center">
     <a href = href="https://github.com/4ahsanul/" target="_blank">
