@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hrlo;Hello;Backend%20Web%20developer;Love%20Street%20Cat;Love%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=9D84B7&vCenter=true&size=22"></a>
