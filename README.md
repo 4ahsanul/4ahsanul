@@ -8,21 +8,6 @@
     <img src="https://media.giphy.com/media/OovKvQaKzwzLy/giphy.gif">
 </div><br/>
 
-<p align="center">
-    <a href = href="https://github.com/4ahsanul/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=4ahsanul&label=Profile%20views&color=350590&style=flat-square" alt="4ahsanul"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/years/4ahsanul?style=flat-square&color=350590" alt="Years Badge"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/repos/4ahsanul?style=flat-square&color=350590" alt="Repos Badge"/>
-    </a>
-    <a href="https://badges.pufler.dev" target="_blank">
-        <img src="https://badges.pufler.dev/commits/monthly/4ahsanul?style=flat-square&color=350590" alt="Commits Badge"/>
-    </a>
-</p>
-
 ### About Me 🏡
 <details> 
     <summary>Collapse</summary><br/>
