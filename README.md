@@ -34,9 +34,3 @@
             </p>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-### Snake 🐍
-<img align="center" src="https://github.com/4ahsanul/4ahsanul/blob/output/github-contribution-grid-snake.svg" alt="Snake">
-
-### Tech Stack 🛠
-<summary>Collapse</summary>
