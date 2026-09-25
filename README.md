@@ -11,6 +11,10 @@
   <a href="https://instagram.com/filfimohulqi"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000" /></a>
 </p>
 
+<div align="center">
+    <img src="https://media.giphy.com/media/OovKvQaKzwzLy/giphy.gif">
+</div><br/>
+
 ---
 
 ### 🩺 About Me
@@ -61,11 +65,6 @@ A long-time Atlus fan — the Persona series (3, 4, 5) is basically my comfort g
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4ahsanul&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ahsanul&layout=compact&hide_border=true&langs_count=8&hide=html,css&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ahsanul&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&stroke=FF0000" />
