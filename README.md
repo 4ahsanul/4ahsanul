@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF0000&height=140&section=header&text=FILFIMO%20YULFIZ&fontSize=48&fontColor=FFFFFF&fontAlignY=65&desc=SOFTWARE%20ENGINEER%20%7C%20TAKE%20YOUR%20HEART&descAlignY=90&descSize=18&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF0000&height=140&section=header&text=FILFIMO%20YULFIZ&fontSize=48&fontColor=FFFFFF&fontAlignY=65&fontFamily=Anton&desc=SOFTWARE%20ENGINEER%20%7C%20TAKE%20YOUR%20HEART&descAlignY=90&descSize=18&descColor=FFFFFF" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=800&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=460&lines=Software+Engineer+%40+RSU+An-Ni'mah;Full-Stack+%26+Backend+Developer;Healthcare+IT+%26+SIMRS;Phantom+Thief+of+Bad+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Anton&weight=400&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=460&lines=Software+Engineer+%40+RSU+An-Ni'mah;Full-Stack+%26+Backend+Developer;Healthcare+IT+%26+SIMRS;Phantom+Thief+of+Bad+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
