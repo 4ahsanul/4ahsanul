@@ -68,14 +68,6 @@ A long-time Atlus fan — the Persona series (3, 4, 5) is basically my comfort g
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4ahsanul/4ahsanul/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" width="100%" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
