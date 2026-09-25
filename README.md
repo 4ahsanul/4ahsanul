@@ -1,36 +1,76 @@
-## Hi there
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:FF0000&height=140&section=header&text=FILFIMO%20YULFIZ&fontSize=48&fontColor=FFFFFF&fontAlignY=65&desc=SOFTWARE%20ENGINEER%20%7C%20TAKE%20YOUR%20HEART&descAlignY=90&descSize=18&descColor=FFFFFF" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hrlo;Hello;Mobile%20Developer;Love%20Street%20Cat;Love%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=9D84B7&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=800&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=460&lines=Software+Engineer+%40+RSU+An-Ni'mah;Android+%2F+Kotlin+Developer;Healthcare+IT+%26+SIMRS;Phantom+Thief+of+Bad+Code" alt="Typing SVG" />
 </p>
 
-<div align="center">
-    <img src="https://media.giphy.com/media/OovKvQaKzwzLy/giphy.gif">
-</div><br/>
+<p align="center">
+  <a href="https://filfimo.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=FF0000" /></a>
+  <a href="mailto:yulfisahsan@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
+  <a href="https://linkedin.com/in/filfimo"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" /></a>
+  <a href="https://instagram.com/filfimohulqi"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0000" /></a>
+</p>
 
-### About Me 🏡
-<details> 
-    <summary>Collapse</summary><br/>
-        <p align="center">
-            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-            My name is Filfimo Yulfiz Ahsanul Hulqi, You can call me Fimo or Yulfis.<br>
-            Right now I'm an <i>fresh graduate</i> of Computer Science at Institute Technology Telkom Purwokerto.<br><br>
-            I love tech, and about programming, but right now i'm in quarter live crisis (maybe).<br>
-            I'm feel anxious and not confident with my skill, because the reality in tech industry is so hard (kukira kertas ternyata keras).<br>
-            But I'm not give up, i'm still here, still learning, always trying, keep productive, and stay active.<br>
-            One more... i love cat, street cat especially.<br>
-            <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-        </p>
-</details>
+---
 
-### Github Stat 📈
-<details>
-    <summary>Collapse</summary>
-        <br/>
-            <p align="center">
-                <img width=300px src="https://github-readme-stats.vercel.app/api/top-langs?username=4ahsanul&show_icons=true&theme=omni&locale=en&layout=compact&langs_count=10&hide=html,css,vue,cmake,jupyter%20notebook,scss,tex,smarty&exclude_repo=dotfiles,laravel-react-starter" alt="Top Lang"/><br>
-              <img width=300px src="https://github-readme-stats.vercel.app/api?username=4ahsanul&show_icons=true&theme=omni&locale=en" alt="4ahsanul"/>
-              <img width=600px src="https://github-readme-streak-stats.herokuapp.com/?user=4ahsanul&theme=omni" alt="4ahsanul"/><br>
-            </p>
-        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+### 🩺 About Me
+
+I'm a Software Engineer based in Brebes, Central Java, currently building and maintaining **SIMRS** (hospital management system) at **RSU An-Ni'mah, Banyumas**. Before that, I worked as a Support Engineer in Yogyakarta, handling billing operations, system validation, and automation scripting — experience that shaped how I think about software today: *keputusan sekecil apapun bisa berdampak pada sistem bisnis* (even the smallest decision can ripple through a business system).
+
+I mostly work across mobile (Kotlin/Android) and web (Next.js/TypeScript), with a soft spot for healthcare tech and AI-assisted diagnostics.
+
+When I'm not coding, I'm probably gaming, reading, writing on my blog, or training toward a 10K run. Street cats are also a serious interest of mine. 🐱
+
+---
+
+### 🎭 Persona Confidant Rank
+
+A long-time Atlus fan — the Persona series (3, 4, 5) is basically my comfort game. Social Links, all-out attacks, and iconic soundtracks included.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Persona_5-FF0000?style=for-the-badge&logo=playstation&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Persona_4-FF0000?style=for-the-badge&logo=playstation&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Persona_3_Reload-FF0000?style=for-the-badge&logo=playstation&logoColor=000000" />
+</p>
+
+> "Let's take back what's ours." — every time I finally squash a production bug.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-FF0000?style=for-the-badge&logo=kotlin&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Android-FF0000?style=for-the-badge&logo=android&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Firebase-FF0000?style=for-the-badge&logo=firebase&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-FF0000?style=for-the-badge&logo=typescript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-FF0000?style=for-the-badge&logo=next.js&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FF0000?style=for-the-badge&logo=tailwindcss&logoColor=000000" />
+  <img src="https://img.shields.io/badge/PHP-FF0000?style=for-the-badge&logo=php&logoColor=000000" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- **[AiDentist](https://github.com/4ahsanul/AiDentist)** — Dental detection application using AI/ML (Jupyter Notebook, Python)
+- **[Dent-TA / TA](https://github.com/4ahsanul/TA)** — Android app (Kotlin) built for my final thesis project
+- **[Personal Blog](https://filfimo.com/)** — Built with Next.js, where I write about tech and life
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=4ahsanul&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ahsanul&layout=compact&hide_border=true&langs_count=8&hide=html,css&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ahsanul&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&stroke=FF0000" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,100:000000&height=60&section=footer" width="100%"/>
+
+<p align="center"><i>Thanks for stopping by — feel free to reach out!</i></p>
