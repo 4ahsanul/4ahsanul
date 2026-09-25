@@ -38,6 +38,19 @@ A long-time Atlus fan — the Persona series (3, 4, 5) is basically my comfort g
   <img src="https://img.shields.io/badge/Persona_3_Reload-FF0000?style=for-the-badge&logo=playstation&logoColor=000000" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/kBDv24Ub5VQB3sHDjR/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/aXhg3dD1gcOEaP6FXh/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/Ski9j9bCLMAGiTpxUn/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/ZBPtTb6C8r1WdrwyuA/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/ZdAe6qPmwPbzVcOmdo/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/AdQu5tU9p2MtbPEPUw/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/JHxuyEIA6Wuy9DdszY/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/Xn6ALKvRdFmRdNDeDa/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/Frm1RbVLBVMSp2gaPT/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/eAjImo4vRLoWqvDEzz/giphy.gif" width="60" />
+</p>
+
 > "Let's take back what's ours." — every time I finally squash a production bug.
 
 ---
