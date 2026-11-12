@@ -20,7 +20,7 @@
 
 ### 🩺 About Me
 
-I'm a Software Engineer based in Brebes, Central Java, currently building and maintaining **SIMRS** (hospital management system) at **RSU An-Ni'mah, Banyumas**. Before that, I worked as a Support Engineer in Yogyakarta, handling billing operations, system validation, and automation scripting — experience that shaped how I think about software today: *keputusan sekecil apapun bisa berdampak pada sistem bisnis* (even the smallest decision can ripple through a business system).
+I'm a Software Engineer based in Brebes, Central Java, currently building and maintaining **SIMRS** (hospital management system) at **RSU An-Ni'mah, Banyumas**. Before that, I worked as a Support Engineer in Yogyakarta, handling billing operations, system validation, and automation scripting, experience that shaped how I think about software today: *keputusan sekecil apapun bisa berdampak pada sistem bisnis* (even the smallest decision can ripple through a business system).
 
 These days I mostly work full-stack and backend — Python, Next.js, and TypeScript — maintaining and building features for hospital systems. Kotlin/Android is still in my toolkit, just not where my focus is anymore. I've got a soft spot for healthcare tech and AI-assisted diagnostics.
 
